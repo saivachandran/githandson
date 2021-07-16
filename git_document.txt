@@ -1,0 +1,44 @@
+what is git
+
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows
+
+why we use git
+
+Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source
+
+
+Advantages of git
+
+One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase
+
+
+There are very few disadvantages of using GIT:
+
+    Git is less preferred for handling extremely large files or frequently changing binary files .
+    GIT does not support 'commits' across multiple branches or tags.
+
+
+github
+
+Simply put, Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+
+git -- high quality version control system installed in local computer
+
+github- cloud based hosting service it manage git repository
+
+
+
+3 types of directory in git
+===========================
+
+. working directory
+
+untracked files
+
+. staging area
+
+changes to be commit
+
+. git directory
+
