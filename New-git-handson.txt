@@ -66,6 +66,23 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
+# create a new repository on the command line
+
+echo "# new" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:saivachandran/new.git
+git push -u origin main
+
+# push an existing repository from the command line
+
+git remote add origin git@github.com:saivachandran/new.git
+git branch -M main
+git push -u origin main
+
+
 ## add file to staging area
 ---------------------------
 
