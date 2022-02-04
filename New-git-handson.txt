@@ -215,6 +215,11 @@ index 63cf2fa..4769aa9 100644
 +weare
 
 
+pull repository from remote
+---------------------------
+
+ git pull https://github.com/saivachandran/kubernetes-learn.git main
+
 
 How to see a specific commit in Git
 ------------------------------------
