@@ -221,6 +221,14 @@ delete remote repo
 
 -------------------------------------------------------------- 	
 
+# delete pushed commit
+
+// Go to previous commit
+git reset --hard HEAD~1
+
+// Force push
+git push -f 
+
 
 
 
