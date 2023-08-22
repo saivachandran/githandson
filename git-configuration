@@ -1,0 +1,14 @@
+# git configuration
+
+git config --global user.name ""
+git config --global user.email ""
+git config -l
+
+
+# cache credentals
+
+git config --global credential.helper cache
+
+# clear credntials
+
+git config --global --unset credential.helper
